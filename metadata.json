@@ -1,0 +1,5 @@
+{
+  "name": "AI Medical Report Analyzer",
+  "description": "An AI-powered tool to analyze medical reports. Upload an image of your report, and the AI will provide a simplified summary, explain key medical terms, identify potential concerns, and suggest recommended next steps. This tool is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
